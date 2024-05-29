@@ -1,0 +1,15 @@
+nav {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+background-color:#eca747;}
+
+nav li {list-style-type: none;
+     display:inline;
+    padding-left: 7px;
+    padding-right: 7px;}
+
+a{color:black;
+  font-size:15px;}
